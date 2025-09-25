@@ -23,4 +23,4 @@ import java.time.LocalDate;
             System.out.println("hobi: "+ hobi );
         }
     }
-}
+
