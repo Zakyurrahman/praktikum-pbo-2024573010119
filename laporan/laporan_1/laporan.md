@@ -1,6 +1,6 @@
 # Laporan Modul 1: Pengenalan Bahasa Java serta Lingkungan Pengembanganya
 **Mata Kuliah:** Praktikum Pemrograman Berorientasi Objek   
-**Nama:** Muhammad Zakyurrahman  
+**Nama:** MUHAMMAD ZAKYURRAHMAN 
 **NIM:** 2024573010119  
 **Kelas:** TI 2A
 
@@ -18,7 +18,6 @@ laporan ini juga membahas pentingnya paradigma OOP dalam membangun perangkat lun
 Teori Lengkap tentang Bahasa Java serta Lingkungan Pengembangannya.  
 
 
-
 Java adalah bahasa pemrograman berorientasi objek yang bersifat portabel dan dapat dijalankan di berbagai platform. Dengan ekosistem yang terdiri dari JDK, JRE, dan JVM, Java menjadi salah satu bahasa yang paling banyak digunakan dalam pengembangan perangkat lunak. Laporan ini bertujuan memberikan pemahaman dasar mengenai Java dan ekosistemnya sebagai bekal sebelum mempelajari praktik pemrograman lebih lanjut.
 
 
@@ -27,8 +26,7 @@ Java adalah bahasa pemrograman berorientasi objek yang bersifat portabel dan dap
 ## 2. Landasan Teori
 
 1. Bahasa Pemrograman Java
-
-Java adalah bahasa pemrograman yang dikembangkan oleh Sun Microsystems pada tahun 1995 dan kini dikelola oleh Oracle. Salah satu keunggulan Java adalah kemampuannya dijalankan di berbagai platform menggunakan prinsip Write Once, Run Anywhere (WORA). Java juga mendukung paradigma Object-Oriented Programming (OOP) yang memudahkan pengembangan aplikasi yang terstruktur dan mudah dipelihara.
+    Java adalah bahasa pemrograman yang dikembangkan oleh Sun Microsystems pada tahun 1995 dan kini dikelola oleh Oracle. Salah satu keunggulan Java adalah kemampuannya dijalankan di berbagai platform menggunakan prinsip Write Once, Run Anywhere (WORA). Java juga mendukung paradigma Object-Oriented Programming (OOP) yang memudahkan pengembangan aplikasi yang terstruktur dan mudah dipelihara.
 
 2. Ekosistem Java
 
