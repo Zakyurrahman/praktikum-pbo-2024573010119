@@ -100,7 +100,7 @@ String nama = "Jhon Doe";
 }
 
 - Hasil dari kode yang telah dijalankan
-![Variabel.png](gambar/Variabel.png)
+![Variabel.png](img_1.png)
 
 ---
 
@@ -195,7 +195,7 @@ String nama = input.nextLine();
 
 
 - Hasil dari kode yang dijalankan:
-![InputOutputDemo.png](gambar/InputOutputDemo.png)
+![InputOutputDemo.png](img_2.png)
 
 ### 3. Analisa dan Pembahasan
 Program InputOutputDemo bertujuan untuk mendemonstrasikan cara menerima input dari pengguna
@@ -302,7 +302,7 @@ Scanner input = new Scanner(System.in);
 }
  
 - Hasil dari kode tersebut
-![GradeDemo.png](gambar/GradeDemo.png)
+![GradeDemo.png](img_3.png)
 ---
 ### A. Analisa dan Pembahasan
 Program GradeDemo digunakan untuk menentukan nilai huruf (grade) dan keterangan berdasarkan input nilai
@@ -397,7 +397,7 @@ Scanner input = new Scanner(System.in);
 }
 
 - Jalan programnya
-![MenuDemo.png](gambar/MenuDemo.png)
+![MenuDemo.png](img_4.png)
 ---
 
 #### A. Analisa dan Pembahasan
@@ -471,7 +471,7 @@ Scanner input = new Scanner(System.in);
 }
 
 - Jalankan programnya.
-![NestedIfDemo.png](gambar/NestedIfDemo.png)
+![NestedIfDemo.png](img_5.png)
 
 ### A. Analisa dan pembahasan
 Program ini bertujuan untuk menentukan kategori umur seseorang berdasarkan input umur yang diberikan
@@ -560,7 +560,7 @@ public static void main(String[] args) {
 }
 
 - Hasil programnya.
-![ForLoopDemo.png](gambar/ForLoopDemo.png)
+![ForLoopDemo.png](img_6.png)
 ---
 
 ### A. Analisa dan Pembahasan
@@ -664,7 +664,7 @@ Scanner input = new Scanner(System.in);
     }
 
 - Jalankan programnya.
-![WhileLoopDemo.png](gambar/WhileLoopDemo.png)
+![WhileLoopDemo.png](img_7.png)
 ---
 ### A. Analisa dan Pembahasan
 Program ini mendemonstrasikan penggunaan while loop dan do-while loop dengan dua contoh kasus:
@@ -743,7 +743,7 @@ public static void main(String[] args) {
 }
 
 - Jalankan programnya.
-![NestedLoopDemo.png](gambar/NestedLoopDemo.png)
+![NestedLoopDemo.png](img_8.png)
 --- 
 
 ### A. Analisa dan Pembahasan
@@ -806,7 +806,8 @@ bintang, angka, maupun tabel dapat dibuat dengan fleksibel.
    Secara keseluruhan, praktikum ini memberikan pemahaman mendasar tentang bagaimana Java mengelola
    data, membuat keputusan, dan mengulang instruksi. Konsep-konsep ini menjadi landasan penting untuk
    membangun program yang lebih besar, modular, dan berorientasi objek.
-4. Referensi
+
+### Referensi
    Oracle. Java SE Documentation. https://docs.oracle.com/javase
    Modul Praktikum PBO, Modul 2: Dasar Pemrograman Java
    Deitel & Deitel. Java: How to Program. Prentice Hall
