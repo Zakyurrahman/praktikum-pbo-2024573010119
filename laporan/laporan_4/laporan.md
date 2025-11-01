@@ -579,7 +579,7 @@ kelas `TugasKartuRencanaStudi`.
 
 ---
 
-#### Kesimpulan
+#### 3. Kesimpulan
 
 Dari hasil praktikum ini dapat disimpulkan bahwa penerapan konsep **Pemrograman Berorientasi Objek (Object Oriented Programming / OOP)**
 dalam bahasa Java mampu mempermudah proses pengembangan program yang kompleks seperti sistem **Kartu Rencana Studi (KRS)**.  
@@ -591,10 +591,12 @@ lebih rapi, modular, serta mudah diperluas. Selain itu, penggunaan menu interakt
 dapat digunakan secara berulang untuk berbagai operasi seperti menambah, menghapus, serta menampilkan data.
 
 Secara keseluruhan, praktikum ini memberikan pemahaman yang kuat mengenai bagaimana konsep OOP dapat diimplementasikan
-untuk menyelesaikan masalah nyata di dunia akademik, serta menjadi dasar penting untuk mengembangkan aplikasi berbasis Java yang lebih kompleks di masa mendatang.
+untuk menyelesaikan masalah nyata di dunia akademik, serta menjadi dasar penting untuk mengembangkan aplikasi berbasis
+Java yang lebih kompleks di masa mendatang.
+
 ---
 
-## 3. REFERENSI
+## 4. REFERENSI
 Modul Praktikum 4 by Pak Muhammad Reza Zulman, S.ST., M.Sc.
 * https://hackmd.io/@mohdrzu/Syf7Kah3ee
 
