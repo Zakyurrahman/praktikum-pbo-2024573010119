@@ -1,10 +1,10 @@
 package modul_4;
 
 public class Mahasiswa {
-    private String nama;
-    private String nim;
-    private String jurusan;
-    private double ipk;
+    public String nama;
+    public String nim;
+    public String jurusan;
+    public double ipk;
 
     public Mahasiswa(String nama, String nim, String jurusan, double ipk) {
         this.nama = nama;
