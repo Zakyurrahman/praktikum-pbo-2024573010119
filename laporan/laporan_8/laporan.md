@@ -89,7 +89,7 @@ Beberapa fitur yang ditawarkan Microsoft Word yaitu:
 #### 2.1.4 Langkah Praktikum
 1. Buat sebuah package baru di dalam package `modul_8` dengan nama `praktikum_1`
 2. Buat abstract class `Shape`:
-```declarative
+`
 package modul_8.praktikum_1;
 
 public abstract class Shape {
@@ -128,10 +128,10 @@ public abstract class Shape {
         System.out.println("Filled: " + filled);
     }
 }
-```
+`
 
 3. Buat class `Circle` yang mewarisi `Shape`:
-```declarative
+`declarative
 package modul_8.praktikum_1;
 
 public class Circle extends Shape {
@@ -169,9 +169,9 @@ public class Circle extends Shape {
         return 2 * radius;
     }
 }
-```
+`
 4. Buat class `Rectangle` yang mewarisi `Shape`:
-```declarative
+`declarative
 package modul_8.praktikum_1;
 
 public class Rectangle extends Shape {
@@ -209,9 +209,9 @@ public class Rectangle extends Shape {
         return width == height;
     }
 }
-```
+`
 5. Buat class `AbstractClassTest` untuk testing:
-```declarative
+`declarative
 package modul_8.praktikum_1;
 
 public class AbstractClassTest {
@@ -250,7 +250,7 @@ public class AbstractClassTest {
         System.out.println("Total Area of All Shapes: " + totalArea);
     }
 }
-```
+`
 
 6. Jalankan program dan amati hasilnya.
 7. Coba buat instance abstract class langsung dan lihat error yang terjadi.
@@ -278,7 +278,7 @@ public class AbstractClassTest {
 
 1. Buat sebuah package baru di dalam package `modul_8` dengan nama `praktikum_2`
 2. Buat interface `Vehicle`:
-```declarative
+`declarative
 package modul_8.praktikum_2;
 
 public interface Vehicle {
@@ -301,10 +301,10 @@ public interface Vehicle {
         System.out.println("Maximum speed for all vehicles: " + MAX_SPEED + " km/h");
     }
 }
-```
+`
 
 3. Buat interface `Electric`:
-```declarative
+`declarative
 package modul_8.praktikum_2;
 
 public interface Electric {
@@ -316,10 +316,10 @@ public interface Electric {
         System.out.println("Battery Level: " + getBatteryLevel() + "%");
     }
 }
-```
+`
 
 4. Buat class `Car` yang mengimplementasi `Vehicle`:
-```declarative
+`declarative
 package modul_8.praktikum_2;
 
 public class Car implements Vehicle {
@@ -384,10 +384,10 @@ public class Car implements Vehicle {
     public double getCurrentSpeed() { return currentSpeed; }
     public boolean isRunning() { return isRunning; }
 }
-```
+`
 
 5. Buat class `ElectricCar` yang mengimplementasi kedua interface:
-```declarative
+`declarative
 package modul_8.praktikum_2;
 
 public class ElectricCar implements Vehicle, Electric {
@@ -496,10 +496,10 @@ public class ElectricCar implements Vehicle, Electric {
     public double getCurrentSpeed() { return currentSpeed; }
     public boolean isRunning() { return isRunning; }
 }
-```
+`
 
 6. Buat class `InterfaceTest` untuk testing:
-```declarative
+`declarative
 package modul_8.praktikum_2;
 
 public class InterfaceTest {
@@ -548,7 +548,7 @@ public class InterfaceTest {
         electric.displayBatteryInfo();
     }
 }
-```
+`
 
 7. Jalankan program dan amati:
 * Implementasi multiple interface
@@ -567,7 +567,7 @@ public class InterfaceTest {
 #### 2.3.2 Langkah Praktikum
 1. Buat sebuah package baru di dalam package `modul_8` dengan nama `praktikum_3`
 2. Buat class `BankAccount` yang mengimplementasi abstraksi:
-```declarative
+`declarative
 package modul_8.praktikum_3;
 
 public class BankAccount {
@@ -662,10 +662,10 @@ public class BankAccount {
         System.out.println("--------------------");
     }
 }
-```
+`
 
 3. Buat class `SavingsAccount` yang mewarisi `BankAccount`:
-```declarative
+`declarative
 package modul_8.praktikum_3;
 
 public class SavingsAccount extends BankAccount {
@@ -690,10 +690,10 @@ public class SavingsAccount extends BankAccount {
         System.out.println("--------------------");
     }
 }
-```
+`
 
 4. Buat class `AbstractionTest` untuk testing:
-```declarative
+`declarative
 package modul_8.praktikum_3;
 
 public class AbstractionTest {
@@ -749,7 +749,7 @@ public class AbstractionTest {
         account2.displayAccountInfo();
     }
 }
-```
+`
 
 5. Jalankan program dan amati:
 * Bagaimana private fields dan methods disembunyikan
